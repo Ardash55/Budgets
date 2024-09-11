@@ -1,0 +1,11 @@
+.addBudgetInputsOn{
+    display: none;
+}
+
+.addBudgetInputsOff{
+    display: block;
+}
+
+.addBudgetButton{
+background-color: blue;
+}
